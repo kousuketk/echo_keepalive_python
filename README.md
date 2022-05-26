@@ -17,3 +17,5 @@ $ python3 client.py 0.0.0.0 8080 true
 # not keep alive
 $ python3 client.py 0.0.0.0 8080 true
 ```
+
+reference：https://kazuhira-r.hatenablog.com/entry/2020/02/27/002840
